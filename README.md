@@ -5,7 +5,7 @@
 Built by Team The Vision for the NASA Space Apps Challenge 2026.
 Challenge: *Build a Junior Astronaut Mission Trainer*.
 
-**Play it:** [add your Render link here]
+**Play it:** [https://outpost-zero-mission-trainer.onrender.com]
 
 ---
 
