@@ -1,4 +1,4 @@
-# Outpost Zero
+# Outpost Zero - Junior Astronaut Mission Trainer
 
 **A browser-based mission trainer where students design a Moon or Mars outpost, predict what will fail, and stress-test it.**
 
@@ -109,5 +109,3 @@ Team The Vision: Aditya Raj and Mayank Kumar
 
 Thanks to NASA and the Space Apps Challenge organizers and local leads for the challenge and for the public data and resources that informed this project.
 
-
-Thanks to NASA and the Space Apps Challenge organizers and local leads for the challenge and for the public data and resources that informed this project.
